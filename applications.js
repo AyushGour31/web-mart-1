@@ -1,7 +1,7 @@
 
 const applications = [
     {
-        "favicon" : "",
+        "favicon" : "applications/clock/images/clock.png",
         "name" : "Clock",
         "tagLine" : "best app forever",
         "rating" : "4.0 ⭐️⭐️⭐️⭐︎✩",
