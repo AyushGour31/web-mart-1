@@ -140,6 +140,17 @@ a {
     margin-top: 80px;
 }
 
+.welcome{
+    position: relative;
+    top: 100%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-size: 2rem;
+}
+
 .container {
     padding-inline: 80px;
     background-color: var(--gray);
