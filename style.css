@@ -211,11 +211,11 @@ a {
     color: var(--dark-light);
 }
 
-.sec-2{
+/* .sec-2{ */
     /* background: linear-gradient(to top, var(--gray) 50%, var(--white-two)); */
 
     /* background-color: var(--white); */
-}
+/* } */
 
 .games{
     display: flex;
